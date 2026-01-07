@@ -1,0 +1,11 @@
+{
+  "name": "counter-app",
+  "version": "1.0.0",
+  "description": "Simple counter app for GitHub Actions CI demo",
+  "main": "src/script.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "author": "YourName",
+  "license": "MIT"
+}
